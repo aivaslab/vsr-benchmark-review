@@ -1,7 +1,7 @@
 # VSR Benchmark Review
 A review of existing VSR benchmarks from a developmental perspective.
 
-Temp version [here](https://docs.google.com/spreadsheets/d/11UBVzxsIk_hg-YI9DW4oTY92ERTgOK1_vpp1TW88PZE)
+Temporary version [here](https://docs.google.com/spreadsheets/d/11UBVzxsIk_hg-YI9DW4oTY92ERTgOK1_vpp1TW88PZE)
 
 |Benchmark   |Description |Citation	|Intrinsic/Extrinsic	|Static/Dynamic	|Perceptive/Generative	|3D/2D	|Labeled Skills	|Dataset size	|Number of sub-tests|
 |---|---|---|---|---|---|---|---|---|---|
